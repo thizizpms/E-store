@@ -25,7 +25,7 @@ Built with **React, TypeScript, Vite, and Tailwind CSS**.
 ---
 
 ## 🔗 Live Demo
-👉 [View Deployed App](https://your-vercel-link.vercel.app) *(replace with your Vercel deployment link)*
+👉 [View Deployed App](https://e-store-eta-cyan.vercel.app/)
 
 ---
 
